@@ -6595,129 +6595,34 @@
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] com.twitter#util-stats_2.12;19.5.0!util-stats_2.12.jar(src)
-[debug] no default ivy user dir defined: set to /Users/henriqueborges/.ivy2
 [debug] 	[NOT REQUIRED] com.twitter#util-jvm_2.12;19.5.0!util-jvm_2.12.jar(src)
-[debug] no default ivy user dir defined: set to /Users/henriqueborges/.ivy2
 [debug] 	[NOT REQUIRED] org.hdrhistogram#HdrHistogram;2.1.11!HdrHistogram.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-transport-native-epoll;4.1.31.Final!netty-transport-native-epoll.jar(src)
-[debug] no default ivy user dir defined: set to /Users/henriqueborges/.ivy2
-[debug] no default ivy user dir defined: set to /Users/henriqueborges/.ivy2
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
 [debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.9!commons-codec.jar(src)
 [debug] 	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.8!paranamer.jar(src)
-[debug] no default ivy user dir defined: set to /Users/henriqueborges/.ivy2
-[debug] no default ivy user dir defined: set to /Users/henriqueborges/.ivy2
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default cache defined: set to /Users/henriqueborges/.ivy2/cache
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] no default cache defined: set to /Users/henriqueborges/.ivy2/cache
-[debug] no default cache defined: set to /Users/henriqueborges/.ivy2/cache
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] no default cache defined: set to /Users/henriqueborges/.ivy2/cache
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] no default cache defined: set to /Users/henriqueborges/.ivy2/cache
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] no default cache defined: set to /Users/henriqueborges/.ivy2/cache
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (57ms)
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] 	default cache: /Users/henriqueborges/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] settings loaded (45ms)
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] 	default cache: /Users/henriqueborges/.ivy2/cache
-[debug] settings loaded (60ms)
-[debug] 	default resolver: default
-[debug] 	default cache: /Users/henriqueborges/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] 	[NOT REQUIRED] com.twitter#util-security_2.12;19.5.0!util-security_2.12.jar(src)
-[debug] including url: jar:file:/Users/henriqueborges/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] 	[NOT REQUIRED] com.twitter#util-hashing_2.12;19.5.0!util-hashing_2.12.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-resolver;4.1.31.Final!netty-resolver.jar(src)
-[debug] settings loaded (51ms)
-[debug] 	default cache: /Users/henriqueborges/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.8!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.5!scalactic_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.fasterxml.jackson.module#jackson-module-scala_2.12;2.9.8!jackson-module-scala_2.12.jar(src)
-[debug] settings loaded (71ms)
-[debug] 	default cache: /Users/henriqueborges/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
 [debug] 	[NOT REQUIRED] org.apache.thrift#libthrift;0.10.0!libthrift.jar(src)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.module#jackson-module-scala_2.12;2.9.8!jackson-module-scala_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#finagle-thrift_2.12;19.5.0!finagle-thrift_2.12.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-codec;4.1.31.Final!netty-codec.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.module#jackson-module-paranamer;2.9.8!jackson-module-paranamer.jar(src)
-[debug] 	[NOT REQUIRED] io.netty#netty-transport-native-unix-common;4.1.31.Final!netty-transport-native-unix-common.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#util-lint_2.12;19.5.0!util-lint_2.12.jar(src)
+[debug] 	[NOT REQUIRED] io.netty#netty-transport-native-unix-common;4.1.31.Final!netty-transport-native-unix-common.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#util-core_2.12;19.5.0!util-core_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#util-tunable_2.12;19.5.0!util-tunable_2.12.jar(src)
 [debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.2!commons-logging.jar(src)
-[debug] settings loaded (69ms)
-[debug] 	default cache: /Users/henriqueborges/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
 [debug] 	[NOT REQUIRED] com.twitter#util-registry_2.12;19.5.0!util-registry_2.12.jar(src)
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 	[NOT REQUIRED] com.twitter#util-logging_2.12;19.5.0!util-logging_2.12.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-common;4.1.31.Final!netty-common.jar(src)
-[debug] 	[NOT REQUIRED] com.twitter#scrooge-core_2.12;19.5.0!scrooge-core_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.twitter#util-logging_2.12;19.5.0!util-logging_2.12.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-buffer;4.1.31.Final!netty-buffer.jar(src)
+[debug] 	[NOT REQUIRED] com.twitter#scrooge-core_2.12;19.5.0!scrooge-core_2.12.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-transport;4.1.31.Final!netty-transport.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#finagle-init_2.12;19.5.0!finagle-init_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.12!slf4j-api.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#util-function_2.12;19.5.0!util-function_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.github.ben-manes.caffeine#caffeine;2.3.4!caffeine.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-handler;4.1.31.Final!netty-handler.jar(src)
@@ -6725,34 +6630,33 @@
 [debug] 	[NOT REQUIRED] io.netty#netty-codec-socks;4.1.31.Final!netty-codec-socks.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4!scala-parser-combinators_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#finagle-core_2.12;19.5.0!finagle-core_2.12.jar(src)
+[debug] 	[NOT REQUIRED] io.netty#netty-codec-http;4.1.31.Final!netty-codec-http.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-handler-proxy;4.1.31.Final!netty-handler-proxy.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#util-codec_2.12;19.5.0!util-codec_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] com.twitter#finagle-netty4_2.12;19.5.0!finagle-netty4_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#util-app_2.12;19.5.0!util-app_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.12!slf4j-api.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.4.1!httpcore.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-core;2.9.8!jackson-core.jar(src)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.9.8!jackson-databind.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.4.1!httpclient.jar(src)
 [debug] 	[NOT REQUIRED] com.twitter#util-cache_2.12;19.5.0!util-cache_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.9.8!jackson-annotations.jar(src)
-[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.9.8!jackson-databind.jar(src)
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.5!scalatest_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar(src)
-[debug] 	[NOT REQUIRED] com.twitter#finagle-netty4_2.12;19.5.0!finagle-netty4_2.12.jar(src)
-[debug] 	[NOT REQUIRED] io.netty#netty-codec-http;4.1.31.Final!netty-codec-http.jar(src)
-[debug] :: resolution report :: resolve 4505ms :: artifacts dl 133ms
-[debug] 	report for default#pi-rpc-client$sources;0.1 compile produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-compile.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 runtime produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-runtime.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 test produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-test.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 provided produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-provided.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 optional produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-optional.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 compile-internal produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-compile-internal.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 runtime-internal produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-runtime-internal.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 test-internal produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-test-internal.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 plugin produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-plugin.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 pom produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-pom.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 scala-tool produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-scala-tool.xml
-[debug] 	report for default#pi-rpc-client$sources;0.1 thrift produced in /Users/henriqueborges/Documents/GitHub/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-thrift.xml
-[debug] 	resolve done (4505ms resolve - 133ms download)
+[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
+[debug] :: resolution report :: resolve 1585ms :: artifacts dl 33ms
+[debug] 	report for default#pi-rpc-client$sources;0.1 compile produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-compile.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 runtime produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-runtime.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 test produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-test.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 provided produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-provided.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 optional produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-optional.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 compile-internal produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-compile-internal.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 runtime-internal produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-runtime-internal.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 test-internal produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-test-internal.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 plugin produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-plugin.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 pom produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-pom.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 scala-tool produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-scala-tool.xml
+[debug] 	report for default#pi-rpc-client$sources;0.1 thrift produced in /Users/henriqueborges/Documents/GitHub/pi-rpc/pi-rpc-client/target/scala-2.12/resolution-cache/reports/default-pi-rpc-client$sources-thrift.xml
+[debug] 	resolve done (1585ms resolve - 33ms download)

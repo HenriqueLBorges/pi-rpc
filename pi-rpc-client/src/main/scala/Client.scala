@@ -5,7 +5,7 @@ import com.pi.thrift.PiService
 object Client {
 
   def main(args: Array[String]): Unit = {
-    val service: PiService.FutureIface = Thrift.client.newIface[com.pi.thrift.PiService.FutureIface]("0.0.0.0:8080")
+    val service: PiService.FutureIface = Thrift.client.newIface[com.pi.thrift.PiService.FutureIface](scala.util.Properties.envOrElse("HOST", "0.0.0.0")+":"+Integer.valueOf(scala.util.Properties.envOrElse("PORT", "8080")))
 
     while(true){
       println("new request...")

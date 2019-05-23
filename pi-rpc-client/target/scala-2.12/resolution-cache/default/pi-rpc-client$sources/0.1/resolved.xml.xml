@@ -4,7 +4,7 @@
 		module="pi-rpc-client$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190523002324"
+		publication="20190523104810"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

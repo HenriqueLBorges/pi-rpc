@@ -2,14 +2,22 @@ version: '3'
 
 services:
   #PI - RPC - Server
-  rpi_server:
-    container_name: pi-rpc-server
-    build: .
+  server:
+    container_name: server
+    build:
+      context: $PWD/pi-rpc-server/
+      dockerfile: $PWD/pi-rpc-server/Dockerfile
     #Exposes server port
     ports:
       - "8080:8080"
 
   #PI - RPC - Client
-  rpi_client: 
-    container_name: pi-rpc-client 
-    build: .
+  client: 
+    container_name: client 
+    build:
+      context: $PWD/pi-rpc-client/
+      dockerfile: $PWD/pi-rpc-client/Dockerfile
+    #Sets ENV vars
+    environment:
+     - HOST=server
+     - PORT=8080

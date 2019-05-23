@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, thrift"
-		date="20190523002325"/>
+		date="20190523104810"/>
 	<dependencies>
 		<module organisation="com.twitter" name="finagle-thrift_2.12">
 			<revision name="19.5.0" status="release" pubdate="20190517171348" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/twitter/finagle" extra-info.apiURL="https://twitter.github.io/finagle/docs/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="13">
