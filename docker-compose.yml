@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  #PI - RPC - Server
+  rpi_server:
+    container_name: pi-rpc-server
+    build: .
+    #Exposes server port
+    ports:
+      - "8080:8080"
+
+  #PI - RPC - Client
+  rpi_client: 
+    container_name: pi-rpc-client 
+    build: .

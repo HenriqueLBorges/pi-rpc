@@ -1,0 +1,1 @@
+addSbtPlugin("com.twitter" % "scrooge-sbt-plugin" % "19.5.0")

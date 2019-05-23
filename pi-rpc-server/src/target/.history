@@ -1,0 +1,4 @@
+plugins
+exit
+scrooge-generator/run-main com.twitter.scrooge.Main --help
+exit
